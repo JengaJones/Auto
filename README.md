@@ -4,6 +4,8 @@ package automobileProject;
 
 
 //Importing the Scanner class to allow for user input/Importing the ArrayList class to use an array
+
+
 import java.util.Scanner;
 import java.util.Arrays;
 
